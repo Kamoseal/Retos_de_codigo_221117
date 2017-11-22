@@ -1,0 +1,77 @@
+/*
+ font-family: 'Montserrat', sans-serif;
+ */
+#marginfontbody{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+header{
+  margin: 0;
+  height: 110px;
+  position: fixed;
+  width: 1337px;
+  z-index: 1;
+}
+main{
+  background-size: 100% 100%;
+  background-image: url("../assets/images/hero.gif");
+  background-repeat: no-repeat;
+  height: 600px;
+  position: relative;
+}
+h2{
+  font-size: 45px;
+  font-weight: 900;
+  color: #352384;
+  margin: 68px 65px 3px;
+}
+h4{
+  font-weight: 200;
+  margin: 3px 66px 3px;
+}
+input{
+  border: none;
+  color: #c1c9db;
+  font-size: 20px;
+  height: 29px;
+  width: 90%;
+}
+hr{
+  padding: 0;
+  width: 80%
+}
+.principalinformation{
+  background-color: #FFFFFF;
+  float: right;
+  height: 423px;
+  margin-top: 113px;
+  width: 557px;
+}
+.firstlogolyft{
+  float: left;
+}
+.hideinput{
+  display: none;
+}
+header nav span .firstlogolyft{
+  margin: 39px 78px;
+  height: 47px;
+  width: 67px;
+}
+header nav ul li{
+    float: right;
+    font-size: 15px;
+    list-style: none;
+    margin-top: 20px;
+    padding: 30px;
+}
+header nav ul{
+  color: #FFFFFF;
+  margin: 0;
+}
+main .principalinformation p{
+  margin-left: 63px;
+}
+header nav ul li:first-child{
+  visibility: hidden;
+}
