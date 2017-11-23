@@ -29,6 +29,12 @@ h4{
   font-weight: 200;
   margin: 3px 66px 3px;
 }
+h3{
+  font-size: 30px;
+  color: #FFFFFF;
+  margin: 0 158px 10px;
+  padding-top: 60px;
+}
 input{
   border: none;
   color: #c1c9db;
@@ -39,6 +45,10 @@ input{
 hr{
   padding: 0;
   width: 80%
+}
+h5{
+  margin-top: 50px;
+  padding-left: 158px;
 }
 .principalinformation{
   background-color: #FFFFFF;
@@ -52,6 +62,51 @@ hr{
 }
 .hideinput{
   display: none;
+}
+.firstbuttom{
+  display: inline;
+  height: 51px;
+  margin-top: 0;
+  width: 184px;
+}
+.becomeadriver{
+  color: #FFFFFF;
+  font-size: 15px;
+  background-color: #ff00bf;
+  border-radius: 5px;
+  border: none;
+  height: 51px;
+  margin-left: 63px;
+  width: 184px;
+}
+.arideinminutes{
+  background-color: #6f268b;
+  height: 626px;
+  width: 1337px;
+}
+.phonelyft{
+  margin-top: -530px;
+  height: 590px;
+  float: right;
+}
+.watch{
+  height: 380px;
+  width: 1334px;
+}
+.videoone{
+  float: right;
+  margin-top: -240px;
+}
+.june{
+  height: 503px;
+  width: 1334px;
+}
+.june .juneboxrigth{
+  float: right;
+  margin-right: 90px;
+}
+.videojune{
+  margin-top: -18px;
 }
 header nav span .firstlogolyft{
   margin: 39px 78px;
@@ -72,6 +127,29 @@ header nav ul{
 main .principalinformation p{
   margin-left: 63px;
 }
+.firstbuttom span{
+  margin-left: 20px;
+}
+article footer p{
+  font-size: 10px;
+}
+.arideinminutes p{
+  color: #FFFFFF;
+  margin-left: 158px;
+}
+.watch p{
+  padding-left: 158px;
+}
+.watch h3{
+  color: #333447;
+  padding-top: 5px;
+}
+.juneboxrigth h3{
+  color: #333447;
+  padding-top: 5px;
+  margin: 0;
+}
+
 header nav ul li:first-child{
   visibility: hidden;
 }
